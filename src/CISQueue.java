@@ -3,7 +3,9 @@ import java.util.Arrays;
 public class CISQueue {
 
     // Array property.
+    
     // Size property.
+    
     // Index pointer. Indicates the index of the most recently added element.
 
     // Constructor.
